@@ -1,5 +1,5 @@
 {
- "updated": "Saturday, Nov 14, 2026 · 7:10 AM ET",
+ "updated": "Sunday, Nov 15, 2026 · 7:20 AM ET",
  "week": 10,
  "ticker": [
   [
@@ -41,14 +41,19 @@
  ],
  "wire": [
   {
-   "t": "Rome Alone still has nothing at quarterback, flex or defense in its Week 10 lineup on Sleeper as of Saturday morning. Bryce Young, the Rams defense, Corey Kiner and Audric Estime are all on the bench. No league transactions since Thursday.",
-   "src": "League lineups",
-   "url": "https://sleeper.com/leagues/1340145739841425408"
+   "t": "Kansas City ruled Kenneth Walker III (groin) out Saturday after he missed Friday practice. As of Sunday morning he is still in the I Pulled My McCaff starting lineup, with Blake Corum, Dylan Sampson and Brian Thomas Jr. on the bench.",
+   "src": "CBS Sports",
+   "url": "https://www.cbssports.com/nfl/news/nfl-week-10-injury-report-chiefs-kenneth-walker-aj-brown/"
   },
   {
-   "t": "Kansas City added Kenneth Walker III to Friday's injury report with a groin injury and listed him questionable after he didn't practice. Andy Reid didn't sound optimistic. Walker starts for I Pulled My McCaff; Blake Corum and Dylan Sampson are on its bench.",
-   "src": "CBS Sports / RotoWire",
-   "url": "https://www.cbssports.com/nfl/news/nfl-week-10-injury-report-chiefs-kenneth-walker-aj-brown/"
+   "t": "Houston ruled David Montgomery (groin) out for Sunday at Cleveland despite a full practice Friday. It's his fourth straight missed game and Woody Marks is expected to lead the backfield. Montgomery is still starting for Skatabooboo; Xavier Worthy and Devaughn Vele are on its bench.",
+   "src": "NBC Sports / Rotoworld",
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-14/david-montgomery-ruled-out-for-week-10-vs-browns"
+  },
+  {
+   "t": "Sunday 7 AM: Rome Alone still has nothing at quarterback, flex or defense in its Week 10 lineup. Bryce Young, the Rams defense, Corey Kiner and Audric Estime are on the bench. No league transactions since Thursday.",
+   "src": "League lineups",
+   "url": "https://sleeper.com/leagues/1340145739841425408"
   },
   {
    "t": "Cleared for Week 10 with no designation: Bhayshul Tuten (McCallyCockin(his butt)), George Pickens (PickensMyPukaHurts!), Woody Marks (Slippery Balls), Drew Lock (MarcusbetterLockNjigba), Patrick Mahomes (Likely Cookin That Diaper), Jared Goff (Slippery Balls), Hunter Henry (Allen-tents & Purposes), Harold Fannin Jr. (YourMomsGivin’ Bijan’s), Jakobi Meyers (JTWaddlesHisPurdyJohnson) and Dalton Kincaid.",
@@ -74,14 +79,21 @@
    "t": "Washington beat the Giants 24-21 Thursday night on a 32-yard Jayden Daniels touchdown to Stefon Diggs with 57 seconds left. Daniels threw for 249 yards and three touchdowns with two interceptions, Isaiah Likely had 9 catches for 127 yards and a touchdown, and Cam Skattebo ran for two scores.",
    "src": "ESPN / AP",
    "url": "https://www.espn.com/nfl/recap/_/gameId/401873052"
-  },
-  {
-   "t": "Thursday night league points: Isaiah Likely 28.7 and Antonio Williams 12.2 for Likely Cookin That Diaper, Cam Skattebo 27.2 for Skatabooboo, Jayden Daniels 20.76 and Malik Nabers 7.4 for I Pulled My McCaff, Stefon Diggs 20.3 for McCallyCockin(his butt) and Rachaad White 6.2 for MarcusbetterLockNjigba.",
-   "src": "League scoreboard",
-   "url": "https://sleeper.com/leagues/1340145739841425408"
   }
  ],
  "stories": [
+  {
+   "id": "sun10",
+   "kicker": "Sunday Morning",
+   "title": "Three lineups are broken on Sunday morning: Rome Alone, I Pulled My McCaff and Skatabooboo",
+   "dek": "Kenneth Walker III and David Montgomery were both ruled out Saturday and both are still starting. Rome Alone still has three empty spots. Munich kicks off at 9:30.",
+   "body": [
+    "Here's the state of the league at 7 AM Sunday. Kansas City ruled Kenneth Walker III out Saturday with the groin, and he is still sitting in the I Pulled My McCaff lineup. Hing1eMcCring13berry has Blake Corum, Dylan Sampson and Brian Thomas Jr. on the bench, so this is a two-click fix. I Pulled My McCaff has 28.16 banked against Slippery Balls and I dropped the line to 33.2 assuming somebody swaps him. If nobody does, Shootyeah gets a zero to work with, which is about the only way Slippery Balls stays close.",
+    "Houston ruled David Montgomery out Saturday too, even after a full practice Friday. Fourth straight game he's missed. He is still starting for Skatabooboo. ClaytonBigsbi has Xavier Worthy and Devaughn Vele on the bench, and Skatabooboo leads JTWaddlesHisPurdyJohnson 27.20 to 0.00 thanks to Cam Skattebo. Pat Freiermuth is also questionable with an illness. 0‑9 teams don't get to leave free points on the bench, ClaytonBigsbi. Line moves to 29.8.",
+    "And Rome Alone. Sunday morning. Still nothing at quarterback, flex or defense. Bryce Young, the Rams defense, Corey Kiner and Audric Estime are all on the bench, and Jordan Addison (thumb) is a game-time call in one of the receiver spots. Marco_Polo is 6‑3 and a 5.0-point favorite over MarcusbetterLockNjigba only because I keep assuming he shows up. tballsmccall is starting Drew Lock. If Drew Lock beats a 6‑3 team because the 6‑3 team forgot to play a quarterback, I'm putting it on the front page for a month.",
+    "Munich is first: Detroit vs. New England at 9:30 AM ET. Amon-Ra St. Brown (ribs) is questionable for McCallyCockin(his butt), Jahmyr Gibbs and Hunter Henry go for Allen-tents & Purposes, Jared Goff and Sam LaPorta go for Slippery Balls and MarcusbetterLockNjigba, and Rhamondre Stevenson and A.J. Brown are both questionable. I'm up 20.30 to 0.00 on PickensMyPukaHurts! and I've already checked my lineup three times. It's not hard, fellas."
+   ]
+  },
   {
    "id": "sat10",
    "kicker": "Saturday Report",
@@ -92,18 +104,6 @@
     "Kansas City added Kenneth Walker III to the Friday report with a groin injury and listed him questionable after he didn't practice. Walker has 196.4 points in eight games and 36.3 last week, and he's in the I Pulled My McCaff lineup with Blake Corum and Dylan Sampson on the bench. Hing1eMcCring13berry is still a 38.2-point favorite over Slippery Balls with 28.16 banked, so this is a problem for the score, not the result. Keep an eye on the early inactives.",
     "The good news on the report: Bhayshul Tuten is cleared for McCallyCockin(his butt), George Pickens is cleared for PickensMyPukaHurts!, Drew Lock is cleared to start for MarcusbetterLockNjigba, and Woody Marks and Jared Goff are cleared for Slippery Balls. My line on McCallyCockin(his butt) over PickensMyPukaHurts! stays at 1.0, and I'm already up 20.30 to 0.00. ChuckJ10 fixed his lineup two days ago and Marco_Polo still hasn't. Think about that.",
     "Game-time calls: David Montgomery (full practice Friday) for Skatabooboo, Denzel Boston (back at practice Friday) for Your Mom’s Magic Dick, Jordan Addison for Rome Alone and Ladd McConkey on Monday night for MarcusbetterLockNjigba. Detroit and New England are in Munich Sunday morning, so Amon-Ra St. Brown, Jahmyr Gibbs, Hunter Henry and Rhamondre Stevenson are done before most of you are out of bed. Set your lineups tonight."
-   ]
-  },
-  {
-   "id": "fri10",
-   "kicker": "Thursday Night",
-   "title": "DuvalTiliFall renames the team Likely Cookin That Diaper, and Isaiah Likely drops 28.7",
-   "dek": "Washington 24, Giants 21. Likely Cookin That Diaper is up 40.90 to nothing, Skatabooboo gets 27.2 from Cam Skattebo, and Rome Alone still has three empty spots.",
-   "body": [
-    "DuvalTiliFall killed off LetLamarCook this week. Lamar Jackson is on IR, so the first-place team is now Likely Cookin That Diaper, and Isaiah Likely went out Thursday night and caught 9 balls for 127 yards and a touchdown, 28.7 points. Antonio Williams added 12.2 on a touchdown catch. Likely Cookin That Diaper leads Your Mom’s Magic Dick 40.90 to 0.00 before anybody on Cavemanfsu's roster has played a snap. Rename your team after a tight end and he goes off. I hate that it worked.",
-    "Washington won 24-21 on a 32-yard Jayden Daniels touchdown to Stefon Diggs with 57 seconds left. Diggs had 20.3 for McCallyCockin(his butt), so I'm up 20.30 to 0.00 on PickensMyPukaHurts! and acting like I planned it. Daniels had 20.76 for I Pulled My McCaff despite two picks, and Malik Nabers had 7.4 after losing a fumble, so Hing1eMcCring13berry is at 28.16 against Slippery Balls.",
-    "Cam Skattebo ran for two touchdowns and had 27.2 for Skatabooboo, which means ClaytonBigsbi is beating JTWaddlesHisPurdyJohnson 27.20 to 0.00 on a Friday. Enjoy it. It is the longest Skatabooboo has led anything this season. Rachaad White had 6.2 for MarcusbetterLockNjigba.",
-    "And Rome Alone still has nothing at quarterback, flex or defense this morning, with Bryce Young, the Rams defense, Corey Kiner and Audric Estime on the bench. Marco_Polo has until Sunday at 1. ChuckJ10 at least fixed PickensMyPukaHurts! and put George Pickens (limited Thursday) in the open receiver spot, which moves my line down to 1.0. Bhayshul Tuten didn't practice Thursday, and he's my starter. Cool. Great."
    ]
   },
   {
@@ -323,7 +323,7 @@
    "own": "Hing1eMcCring13berry",
    "rec": "5‑4",
    "ap": "75‑24",
-   "take": "The most points in the league (1,258.26) and the best all-play (75‑24), and only 5‑4. Jayden Daniels had 20.76 Thursday despite two picks. A 41.2-point favorite against Slippery Balls."
+   "take": "The most points in the league (1,258.26) and the best all-play (75‑24), and only 5‑4. Kenneth Walker III was ruled out Saturday and is still in the lineup Sunday morning. Still a 33.2-point favorite over Slippery Balls with 28.16 banked."
   },
   {
    "rk": 3,
@@ -413,7 +413,7 @@
    "own": "ClaytonBigsbi",
    "rec": "0‑9",
    "ap": "7‑92",
-   "take": "0‑9 and a 7‑92 all-play, but Cam Skattebo had 27.2 Thursday and Skatabooboo leads JTWaddlesHisPurdyJohnson 27.20 to 0.00. David Montgomery didn't practice Thursday and is starting."
+   "take": "0‑9 and a 7‑92 all-play, but Cam Skattebo had 27.2 Thursday and Skatabooboo leads JTWaddlesHisPurdyJohnson 27.20 to 0.00. David Montgomery was ruled out Saturday and is still starting."
   }
  ],
  "teams": [
@@ -479,16 +479,16 @@
     "2 Gurleys 1 Kupp (2025, 4-10)",
     "Hingle McCringleberry (2024, 8-6)"
    ],
-   "w7": "vs. Slippery Balls · favored by 38.2",
+   "w7": "vs. Slippery Balls · favored by 33.2",
    "inj": [
-    "Kenneth Walker III (questionable, groin; no practice Friday)",
+    "Kenneth Walker III (ruled out Saturday, groin; still in the starting lineup Sunday morning)",
     "T.J. Hockenson (ruled out for Week 10)",
     "Alec Pierce (IR)"
    ],
    "body": [
     "Most points in the league (1,258.26), the best all-play (75‑24), and 5‑4 after a 140.26 to 118.78 win over Likely Cookin That Diaper. Kenneth Walker III had 36.3, Christian McCaffrey had 22.7 and KC Concepcion Jr. had 19.8.",
     "Jordan Love scored 36.18 on the bench for the second straight week, behind Jayden Daniels at 14.56. Love in for Daniels is a 161.88 score.",
-    "Week 10 is against Slippery Balls and the line is 41.2. Jayden Daniels had 20.76 Thursday and Malik Nabers had 7.4, so it has 28.16 banked."
+    "Week 10 is against Slippery Balls and the line is 33.2. Jayden Daniels had 20.76 Thursday and Malik Nabers had 7.4, so it has 28.16 banked. Kenneth Walker III was ruled out Saturday and is still starting; Blake Corum and Dylan Sampson are on the bench."
    ]
   },
   {
@@ -558,7 +558,7 @@
    ],
    "w7": "vs. MarcusbetterLockNjigba · favored by 5.0",
    "inj": [
-    "Rhamondre Stevenson (game-time decision, knee)",
+    "Rhamondre Stevenson (questionable, knee)",
     "Jordan Addison (game-time decision, thumb)",
     "Omar Cooper Jr. (questionable, ankle)",
     "Caleb Williams, Bucky Irving, Rome Odunze and Colston Loveland (Week 10 byes)"
@@ -585,7 +585,7 @@
    ],
    "w7": "vs. Allen-tents & Purposes · 5.3-point dog",
    "inj": [
-    "A.J. Brown (on IR, game-time decision; expected to be activated Saturday)",
+    "A.J. Brown (questionable, ankle; limited all week)",
     "Pat Bryant (Week 10 bye)"
    ],
    "body": [
@@ -608,7 +608,7 @@
     "JTT Dowdles my Chubb (2025, 11-3)",
     "Poo Poo Pachecoo (2024, 5-9)"
    ],
-   "w7": "vs. Skatabooboo · favored by 26.8",
+   "w7": "vs. Skatabooboo · favored by 29.8",
    "inj": [
     "Jaylen Waddle (Week 10 bye)",
     "Jake Ferguson (ruled out for Week 10)",
@@ -690,7 +690,7 @@
     "Brock’s got a Purdy Mouth (2025, 10-4)",
     "Gibbs me a W tonight (2024, champion)"
    ],
-   "w7": "vs. I Pulled My McCaff · 38.2-point dog",
+   "w7": "vs. I Pulled My McCaff · 33.2-point dog",
    "inj": [
     "Josh Jacobs (out, finger surgery)",
     "Garrett Wilson (questionable, concussion; expected to play)",
@@ -701,7 +701,7 @@
    "body": [
     "3‑6 and the lowest score of the week, 69.60 against MarcusbetterLockNjigba. Tee Higgins had 20.2 and Saquon Barkley had 8.2. Jared Goff scored 5.3 at quarterback with Michael Penix Jr. (13.48) on the bench.",
     "Jahan Dotson, picked up off waivers this week, started and scored 3.6. Shootyeah owes the Week 9 shotgun, the third can of the year.",
-    "Week 10 is against I Pulled My McCaff and Slippery Balls is a 41.2-point underdog with Barkley, Dobbins and Wicks on byes."
+    "Week 10 is against I Pulled My McCaff and Slippery Balls is a 33.2-point underdog with Saquon Barkley and J.K. Dobbins on byes and Josh Jacobs out."
    ]
   },
   {
@@ -717,9 +717,10 @@
     "Dropped Balls (2025, 5-9)",
     "Clayton Bigsbys (2024, 6-8)"
    ],
-   "w7": "vs. JTWaddlesHisPurdyJohnson · 26.8-point dog",
+   "w7": "vs. JTWaddlesHisPurdyJohnson · 29.8-point dog",
    "inj": [
-    "David Montgomery (game-time decision, groin; full practice Friday)",
+    "David Montgomery (ruled out Saturday, groin; still in the starting lineup Sunday morning)",
+    "Pat Freiermuth (questionable, illness)",
     "Jonathon Brooks (IR)",
     "Jeremiyah Love (IR)",
     "Chris Godwin Jr. and Courtland Sutton (Week 10 byes)"
@@ -871,15 +872,15 @@
   "trying": [
    [
     "Rome Alone",
-    "Saturday morning and still nothing at quarterback, flex or defense. Bryce Young (19.07 a game), the Rams defense and Corey Kiner have been on the bench for three days. Marco_Polo is favored by 5.0 on the assumption that he remembers he has a team."
+    "Sunday morning and still nothing at quarterback, flex or defense. Bryce Young (19.07 a game), the Rams defense and Corey Kiner have been on the bench since Tuesday. Marco_Polo is favored by 5.0 on the assumption that he remembers he has a team."
    ],
    [
-    "Your Mom’s Magic Dick",
-    "Down 40.90 to 0.00 to Likely Cookin That Diaper before playing a snap, and Cavemanfsu is starting Denzel Boston, who didn't practice Thursday."
+    "I Pulled My McCaff",
+    "Kenneth Walker III got ruled out Saturday and he's still in the lineup at 7 AM Sunday. Hing1eMcCring13berry has the most points in the league and keeps finding new ways to leave them on the bench."
    ],
    [
-    "Slippery Balls",
-    "69.60 last week, owes the can, and a 38.2-point dog to I Pulled My McCaff, which already has 28.16. Saquon Barkley, J.K. Dobbins and Josh Jacobs are all unavailable. Woody Marks and Jared Goff got cleared, so at least the lineup is real."
+    "Skatabooboo",
+    "David Montgomery was ruled out Saturday and is still starting. ClaytonBigsbi is 0‑9, finally leads a game 27.20 to 0.00, and is about to play it a man down with Xavier Worthy on the bench."
    ]
   ],
   "gfy": [
@@ -888,12 +889,12 @@
     "Renamed the team after Isaiah Likely and Likely scored 28.7 on Thursday. DuvalTiliFall is 7‑2 and in first place, and the bit worked. Unbelievable."
    ],
    [
-    "Skatabooboo",
-    "0‑9, but Cam Skattebo ran for two touchdowns and 27.2 Thursday and Skatabooboo leads JTWaddlesHisPurdyJohnson 27.20 to 0.00. ClaytonBigsbi gets one Friday on top. Enjoy it."
-   ],
-   [
     "McCallyCockin(his butt)",
     "Stefon Diggs caught the game-winner Thursday for 20.3, and Bill_Buttlicker is up 20.30 to 0.00 on PickensMyPukaHurts!. Yes I put myself here again. It's my website."
+   ],
+   [
+    "Allen-tents & Purposes",
+    "RedDevil904 has three guys on byes and DeVonta Smith out and still set a full lineup by Saturday. That's the bar. Three teams in this league can't clear it."
    ]
   ]
  },
@@ -917,10 +918,10 @@
   {
    "fav": "I Pulled My McCaff",
    "dog": "Slippery Balls",
-   "spread": "-38.2",
+   "spread": "-33.2",
    "total": "241.4",
-   "note": "Season PPG gap is 38.2, no net nudge. Kenneth Walker III is questionable with a new groin injury after missing Friday practice, which takes back the bump Slippery Balls lost. Slippery Balls still has Saquon Barkley and J.K. Dobbins on byes, Josh Jacobs and Dontayvion Wicks out, though Woody Marks and Jared Goff were cleared. I Pulled My McCaff has 28.16 banked.",
-   "prob": 89
+   "note": "Season PPG gap is 38.2, cut by 5 because Kenneth Walker III was ruled out Saturday and is still in the lineup as of Sunday morning; this assumes Hing1eMcCring13berry swaps in Blake Corum or Dylan Sampson. Slippery Balls still has Saquon Barkley and J.K. Dobbins on byes and Josh Jacobs and Dontayvion Wicks out; Woody Marks and Jared Goff were cleared and Garrett Wilson is questionable but expected to play. I Pulled My McCaff has 28.16 banked.",
+   "prob": 86
   },
   {
    "fav": "Likely Cookin That Diaper",
@@ -933,23 +934,27 @@
   {
    "fav": "JTWaddlesHisPurdyJohnson",
    "dog": "Skatabooboo",
-   "spread": "-26.8",
+   "spread": "-29.8",
    "total": "189.9",
-   "note": "Season PPG gap is 23.8, bumped by 3 (down from 5 Friday). David Montgomery practiced fully Friday and is a game-time call, but Skatabooboo still has Courtland Sutton and Chris Godwin Jr. on byes and Tutu Atwell starting. It has 27.20 from Cam Skattebo. JTWaddlesHisPurdyJohnson has Jaylen Waddle on the Denver bye and Jake Ferguson out; Jakobi Meyers was cleared.",
-   "prob": 81
+   "note": "Season PPG gap is 23.8, bumped by 6 (up from 3) because Houston ruled David Montgomery out Saturday and he's still starting for Skatabooboo as of Sunday morning; this assumes Xavier Worthy or Devaughn Vele replaces him. Courtland Sutton and Chris Godwin Jr. are on byes and Pat Freiermuth is questionable (illness). Skatabooboo has 27.20 from Cam Skattebo. JTWaddlesHisPurdyJohnson has Jaylen Waddle on the Denver bye and Jake Ferguson out.",
+   "prob": 83
   },
   {
    "fav": "Rome Alone",
    "dog": "MarcusbetterLockNjigba",
    "spread": "-5.0",
    "total": "234.0",
-   "note": "Season PPG gap is 14.0 for Rome Alone, but Caleb Williams, Rome Odunze, Colston Loveland and Bucky Irving are on byes, so it loses about 20, and Jordan Addison is a game-time call. As of Saturday morning the Rome Alone lineup still has nothing at quarterback, flex or defense; this line assumes Marco_Polo starts Bryce Young, the Rams defense and Corey Kiner. MarcusbetterLockNjigba has Bo Nix on the bye and Sam Darnold out, Drew Lock was cleared to start, and Ladd McConkey is a Monday night game-time call. Net 9 off the gap.",
+   "note": "Season PPG gap is 14.0 for Rome Alone, but Caleb Williams, Rome Odunze, Colston Loveland and Bucky Irving are on byes, so it loses about 20, and Jordan Addison is a game-time call. As of Sunday at 7 AM the Rome Alone lineup still has nothing at quarterback, flex or defense; this line assumes Marco_Polo starts Bryce Young, the Rams defense and Corey Kiner. MarcusbetterLockNjigba has Bo Nix on the bye and Sam Darnold out, Drew Lock was cleared to start, and Ladd McConkey is a Monday night game-time call. Net 9 off the gap.",
    "prob": 56
   }
  ],
  "sources": [
   [
-   "NFL Week 10 injury report: Chiefs' Kenneth Walker has new groin injury, Patriots' A.J. Brown questionable (CBS Sports)",
+   "David Montgomery ruled out for Week 10 vs. Browns (NBC Sports / Rotoworld)",
+   "https://www.nbcsports.com/fantasy/football/player-news/2026-11-14/david-montgomery-ruled-out-for-week-10-vs-browns"
+  ],
+  [
+   "NFL Week 10 injury report: Chiefs rule out Kenneth Walker III; A.J. Brown questionable (CBS Sports)",
    "https://www.cbssports.com/nfl/news/nfl-week-10-injury-report-chiefs-kenneth-walker-aj-brown/"
   ],
   [
@@ -983,10 +988,6 @@
   [
    "2026 NFL bye weeks: Week 10 and Week 11 (Fox Sports)",
    "https://www.foxsports.com/stories/nfl/2026-nfl-bye-weeks-schedule-all-32-teams"
-  ],
-  [
-   "Sleeper league data, Week 10 lineups, Thursday scores and team names",
-   "https://sleeper.com/leagues/1340145739841425408"
   ]
  ],
  "columnists": [
@@ -1021,16 +1022,15 @@
  ],
  "columns": [
   {
-   "id": "cc-mouthfri10",
+   "id": "cc-mouthsun10",
    "by": "mouth",
    "kicker": "Opinion",
-   "title": "HE RENAMED THE TEAM AFTER ISAIAH LIKELY AND ISAIAH LIKELY SCORED 28.7!!!",
-   "dek": "Likely Cookin That Diaper IS 7‑2 AND UP 40.90 TO ZERO BEFORE SUNDAY!!!",
+   "title": "TWO GUYS GOT RULED OUT AND THEY'RE BOTH STILL STARTING!!!",
+   "dek": "Kenneth Walker III AND David Montgomery ARE OUT!!! Rome Alone STILL HAS NO QUARTERBACK!!! IT'S SUNDAY!!!",
    "body": [
-    "DuvalTiliFall WAKES UP, CHANGES THE NAME TO Likely Cookin That Diaper, AND ISAIAH LIKELY GOES 9 CATCHES, 127 YARDS AND A TOUCHDOWN!!! 28.7 POINTS!!! FROM A TIGHT END!!! ON A THURSDAY!!!",
-    "ANTONIO WILLIAMS CATCHES A TOUCHDOWN TOO!!! 12.2!!! 40.90 TO 0.00 OVER Your Mom’s Magic Dick!!! Cavemanfsu HASN'T PLAYED A SINGLE GUY AND IS ALREADY DOWN FORTY!!!",
-    "AND Skatabooboo IS WINNING!!! CAM SKATTEBO, TWO TOUCHDOWNS, 27.2!!! 27.20 TO 0.00!!! ClaytonBigsbi HAS NOT LED A GAME ON A FRIDAY ALL YEAR!!! I'M NOT SAYING IT'LL LAST!!! IT WON'T LAST!!! BUT I'M YELLING ABOUT IT!!!",
-    "MEANWHILE Rome Alone STILL HAS NO QUARTERBACK!!! STILL NO FLEX!!! STILL NO DEFENSE!!! IT'S FRIDAY, Marco_Polo!!! BRYCE YOUNG IS SITTING RIGHT THERE!!! CLICK HIM!!!"
+    "THE CHIEFS RULED OUT KENNETH WALKER III ON SATURDAY!!! HE IS STILL IN THE I Pulled My McCaff LINEUP!!! Hing1eMcCring13berry HAS BLAKE CORUM ON THE BENCH!!! DYLAN SAMPSON ON THE BENCH!!! BRIAN THOMAS JR. ON THE BENCH!!! PICK ONE!!! ANY ONE!!!",
+    "THE TEXANS RULED OUT DAVID MONTGOMERY!!! HE PRACTICED FULL ON FRIDAY AND THEY STILL SAT HIM!!! AND ClaytonBigsbi HAS HIM IN THE LINEUP!!! YOU'RE 0‑9, MAN!!! YOU FINALLY LEAD A GAME 27.20 TO NOTHING AND YOU'RE GONNA PLAY IT WITH A HOLE AT RUNNING BACK!!! XAVIER WORTHY IS RIGHT THERE!!!",
+    "AND Rome Alone!!! NO QUARTERBACK!!! NO FLEX!!! NO DEFENSE!!! SINCE TUESDAY!!! Marco_Polo, THE MUNICH GAME IS AT 9:30 IN THE MORNING!!! BRYCE YOUNG DOESN'T PLAY UNTIL LATER BUT YOUR TIME IS RUNNING OUT!!! CLICK!!! THE!!! BUTTON!!!"
    ]
   },
   {
@@ -1060,15 +1060,15 @@
    ]
   },
   {
-   "id": "cc-garysat10",
+   "id": "cc-garysun10",
    "by": "gary",
    "kicker": "Analytics",
-   "title": "I Pulled My McCaff should be 6.82‑2.18, and I can prove it",
-   "dek": "75‑24 all-play, 5‑4 actual, and the most points in the league. My luck index says this is a crime.",
+   "title": "Rome Alone's lineup is 66.7 percent complete, which my model calls a B‑minus",
+   "dek": "Six of nine spots filled. Two other teams are at 88.9 percent. I have adjusted my power index accordingly.",
    "body": [
-    "I Pulled My McCaff has 1,258.26 points, the most in the league, and a 75‑24 all-play record. That's a .758 win rate against everybody, every week. Multiply by nine games and you get 6.82 expected wins. Hing1eMcCring13berry has 5. That is 1.82 wins of pure robbery, which my model rounds up to two, and then up again to a championship.",
-    "Compare that to Likely Cookin That Diaper: 59‑40 all-play, which is 5.36 expected wins, and DuvalTiliFall is 7‑2. Plus 1.64. When I divide the two, I get a luck ratio of 1.11, which is also the number of games Hing1eMcCring13berry would need to win per week to catch up. I have not checked this.",
-    "The bad news for the model: Kenneth Walker III, who has 196.4 of those points in eight games, is questionable Sunday. The good news: I Pulled My McCaff is a 38.2-point favorite over Slippery Balls with 28.16 already banked. The spreadsheet says 89 percent. My gut says the spreadsheet is a coward. The spreadsheet has asked me to stop typing."
+    "Let's do lineup completeness, the most important stat nobody tracks. Rome Alone has six of nine starting spots filled: 66.7 percent. I Pulled My McCaff and Skatabooboo each have eight of nine spots filled with a player who is actually allowed to play, because Kenneth Walker III and David Montgomery were ruled out Saturday. That's 88.9 percent. The other nine teams are at 100. Combined, the league is at 94.4 percent, which is a solid A‑minus for a league that includes Marco_Polo.",
+    "Now the interesting part. Rome Alone is 6‑3, so by my model each empty spot is worth 2 wins. Three empty spots, six wins. Therefore Marco_Polo would be 12‑3 with a full lineup, which is not possible in nine games, which is exactly why the model is so powerful.",
+    "Hing1eMcCring13berry has 1,258.26 points, the most in the league, with a starting running back who has been ruled out. Divide 1,258.26 by 88.9 percent and I Pulled My McCaff is a 1,415.37-point team playing at partial capacity. The spreadsheet has the line at 33.2 and 86 percent. The spreadsheet assumes he clicks Blake Corum. The spreadsheet has met Hing1eMcCring13berry, and is nervous."
    ]
   }
  ],
@@ -1496,7 +1496,7 @@
     "w": 10,
     "c": "Highest-Scoring Receiver",
     "win": "",
-    "detail": "Live. Thursday leader: Isaiah Likely, 28.7 for Likely Cookin That Diaper. Stefon Diggs (McCallyCockin(his butt)) is next at 20.3",
+    "detail": "Live. Thursday leader: Isaiah Likely, 28.7 for Likely Cookin That Diaper. Stefon Diggs (McCallyCockin(his butt)) is next at 20.3. Sunday's games start at 9:30 AM ET in Munich",
     "st": "live"
    },
    {
@@ -1561,7 +1561,7 @@
    "score": "69.60",
    "t": "Shootyeah, crack it open. Slippery Balls scored 69.60, the lowest score of Week 9 and your third can of the year. You lost to MarcusbetterLockNjigba by 22.28 with Jared Goff at 5.3 at quarterback and Michael Penix Jr. (13.48) on the bench, and Jahan Dotson at 3.6 in a receiver spot. Shotgun it, film it, post it in the league chat."
   },
-  "next": "Rome Alone is still the biggest Week 10 can risk: as of Saturday morning it has nothing at quarterback, flex or defense. Your Mom’s Magic Dick is down 40.90 to 0.00, Slippery Balls is a 38.2-point dog, and Skatabooboo has 27.20 from Cam Skattebo with David Montgomery a game-time call.",
+  "next": "Rome Alone is still the biggest Week 10 can risk: as of Sunday morning it has nothing at quarterback, flex or defense. Skatabooboo is starting a ruled-out David Montgomery, I Pulled My McCaff is starting a ruled-out Kenneth Walker III, and Your Mom’s Magic Dick is down 40.90 to 0.00 before kickoff.",
   "wall": {
    "title": "The Curt Kobains",
    "sub": "Every week's lowest score this season. One row, one can.",
