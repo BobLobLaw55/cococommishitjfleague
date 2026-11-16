@@ -966,30 +966,30 @@
   {
    "key": "mouth",
    "name": "Barry \"The Mouth\" McCockiner",
-   "role": "Senior Shouter",
+   "role": "Senior Columnist",
    "img": "img/mouth.jpg",
-   "bio": "Has never once lowered his voice. Writes from the press box, where he's been asked to leave twice. Believes every 4-2 team is either a dynasty or a disgrace."
+   "bio": "Twenty years of opinions and not one of them delivered at a reasonable volume. Barry covers the league's biggest swings, and the managers who whiff on them, from a press box he keeps getting escorted out of."
   },
   {
    "key": "tre",
    "name": "Dick Fitzwell",
    "role": "Takes Desk",
    "img": "img/tre.jpg",
-   "bio": "Former college linebacker who still talks like he's in the film room. Blunt, loud, and always one sentence away from calling you soft."
+   "bio": "Three-year starter at middle linebacker and the desk's resident film-room hardass. Fitzwell grades every lineup like it's game tape, and he does not grade on a curve."
   },
   {
    "key": "dale",
    "name": "Oliver Klozoff",
    "role": "Senior Fantasy Strategist (self-appointed)",
    "img": "img/dale.jpg",
-   "bio": "Finished 14th in a 12-team league once. Nobody knows how. Files his columns from a lawn chair and gives advice anyway."
+   "bio": "Finished 14th in a 12-team league, a result the commissioner's office still can't explain. His advice is confident, carefully numbered and almost always wrong."
   },
   {
    "key": "gary",
    "name": "Connie Lingus",
    "role": "Head of Analytics",
    "img": "img/gary.jpg",
-   "bio": "Has a spreadsheet for everything. None of her spreadsheets are correct, and she will defend every one of them."
+   "bio": "Runs the desk's numbers and stands behind every conclusion she draws from them, especially the ones that don't follow. Her models are proprietary, mostly because nobody else would use them."
   }
  ],
  "columns": [
@@ -1602,6 +1602,214 @@
      "MarcusbetterLockNjigba"
     ]
    ]
+  }
+ },
+ "projections": [
+  {
+   "team": "Allen-tents & Purposes",
+   "own": "RedDevil904",
+   "rec": "6‑3",
+   "ppg": "139.0",
+   "wins": "9.7",
+   "odds": 99,
+   "bye": 67,
+   "seed": "2.1",
+   "take": "Second in points at 1,250.66 and a 70‑29 all-play. RedDevil904 is rock hard and the sim barely blinks. The only question is whether it's a bye."
+  },
+  {
+   "team": "Likely Cookin That Diaper",
+   "own": "DuvalTiliFall",
+   "rec": "7‑2",
+   "ppg": "121.1",
+   "wins": "10.0",
+   "odds": 99,
+   "bye": 56,
+   "seed": "2.5",
+   "take": "7‑2 and in first, even with 121.1 a week. DuvalTiliFall has the record to coast. The points say it's working harder than it looks."
+  },
+  {
+   "team": "I Pulled My McCaff",
+   "own": "Hing1eMcCring13berry",
+   "rec": "5‑4",
+   "ppg": "139.8",
+   "wins": "8.8",
+   "odds": 95,
+   "bye": 34,
+   "seed": "3.2",
+   "take": "Most points in the league and only 5‑4. Hing1eMcCring13berry keeps leaving it on the bench, but even half-interested this team gets in."
+  },
+  {
+   "team": "Rome Alone",
+   "own": "Marco_Polo",
+   "rec": "6‑3",
+   "ppg": "124.0",
+   "wins": "8.8",
+   "odds": 90,
+   "bye": 23,
+   "seed": "3.7",
+   "take": "6‑3 with a softer finish. Marco_Polo just has to show up and set a lineup, which is apparently the hard part."
+  },
+  {
+   "team": "McCallyCockin(his butt)",
+   "own": "Bill_Buttlicker",
+   "rec": "6‑3",
+   "ppg": "121.5",
+   "wins": "8.7",
+   "odds": 86,
+   "bye": 16,
+   "seed": "4.0",
+   "take": "6‑3 and in decent shape. Bill_Buttlicker is one bad quarterback decision away from going limp in December. I'd know."
+  },
+  {
+   "team": "PickensMyPukaHurts!",
+   "own": "ChuckJ10",
+   "rec": "5‑4",
+   "ppg": "119.9",
+   "wins": "8.0",
+   "odds": 68,
+   "bye": 4,
+   "seed": "4.7",
+   "take": "The last team above the line at 5‑4. ChuckJ10 is hanging on, and one bad week drops this team out."
+  },
+  {
+   "team": "YourMomsGivin’ Bijan’s",
+   "own": "YourMomsDildo",
+   "rec": "4‑5",
+   "ppg": "128.7",
+   "wins": "6.9",
+   "odds": 39,
+   "bye": 1,
+   "seed": "5.1",
+   "take": "128.7 a game is playoff scoring, and 4‑5 is not a playoff record. YourMomsDildo needs a run and some help."
+  },
+  {
+   "team": "Your Mom’s Magic Dick",
+   "own": "Cavemanfsu",
+   "rec": "4‑5",
+   "ppg": "115.8",
+   "wins": "6.6",
+   "odds": 16,
+   "bye": 0,
+   "seed": "5.4",
+   "take": "4‑5 and sliding. Cavemanfsu needs to win out and pray."
+  },
+  {
+   "team": "MarcusbetterLockNjigba",
+   "own": "tballsmccall",
+   "rec": "4‑5",
+   "ppg": "110.0",
+   "wins": "5.9",
+   "odds": 5,
+   "bye": 0,
+   "seed": "5.5",
+   "take": "Drew Lock is starting at quarterback. tballsmccall is not wrong to believe in miracles, but the sim doesn't."
+  },
+  {
+   "team": "JTWaddlesHisPurdyJohnson",
+   "own": "GeorigaGoocher",
+   "rec": "4‑5",
+   "ppg": "106.9",
+   "wins": "6.0",
+   "odds": 3,
+   "bye": 0,
+   "seed": "5.6",
+   "take": "106.9 a game won't get it done from 4‑5. GeorigaGoocher needs to win out and get lucky."
+  },
+  {
+   "team": "Slippery Balls",
+   "own": "Shootyeah",
+   "rec": "3‑6",
+   "ppg": "101.6",
+   "wins": "4.1",
+   "odds": 0,
+   "bye": 0,
+   "seed": "6.0",
+   "take": "3‑6, three cans and 101.6 a game. Shootyeah is out of chances unless something weird happens."
+  },
+  {
+   "team": "Skatabooboo",
+   "own": "ClaytonBigsbi",
+   "rec": "0‑9",
+   "ppg": "83.0",
+   "wins": "0.6",
+   "odds": 0,
+   "bye": 0,
+   "seed": "—",
+   "take": "0‑9. ClaytonBigsbi is playing for pride, the losers bracket payout, and to avoid a fifth can."
+  }
+ ],
+ "projnote": "20,000 simulated finishes for Weeks 10 through 14 on the real schedule. Each team's weekly score is drawn from its own Weeks 1–9 average and spread. Ties are broken on points for, like Sleeper does. Percentages are rounded.",
+ "picks": {
+  "week": 10,
+  "items": [
+   {
+    "id": "pick-motw",
+    "type": "motw",
+    "label": "Matchup of the Week",
+    "fav": "Allen-tents & Purposes",
+    "dog": "YourMomsGivin’ Bijan’s",
+    "spread": "-5.3",
+    "total": "267.7",
+    "prob": 57,
+    "pick": "Allen-tents & Purposes by 5.3",
+    "title": "Allen-tents & Purposes vs. YourMomsGivin’ Bijan’s: the most points on the board, and a season on the line",
+    "dek": "The highest total of Week 10 at 267.7, and the first team out of the playoffs needs this one more than anybody.",
+    "body": [
+     "This is the game. Allen-tents & Purposes has 1,250.66 points, second in the league, scoring 139.0 a week with a 70‑29 all-play. YourMomsGivin’ Bijan’s is third in points at 1,158.32, scoring 128.7 a week, and somehow sits at 4‑5. Put them together and you get a 267.7 total, the highest on the board by 26.3 points.",
+     "Now the stakes. Erection Projections has Allen-tents & Purposes at 99 percent to make the playoffs, so for RedDevil904 this is about the bye, which sits at 67 percent. YourMomsGivin’ Bijan’s is the first team below the line at 39 percent. A loss here and YourMomsDildo is looking at needing to win out with help. A win and that number jumps.",
+     "The lineups are banged up on both sides. Allen-tents & Purposes is missing Dallas Goedert, Jonah Coleman and D’Andre Swift to byes and DeVonta Smith is out. YourMomsGivin’ Bijan’s has Pat Bryant on a bye and A.J. Brown questionable. That's why the gap is only 5.3 instead of 10.3.",
+     "The pick: Allen-tents & Purposes by 5.3, 57 percent. RedDevil904 is deeper, but YourMomsGivin’ Bijan’s has been scoring like a playoff team all year and is overdue to get paid for it."
+    ],
+    "status": "hit",
+    "result": "Final: Allen-tents & Purposes won 150.04 to 113.28 (+36.76). Covered."
+   },
+   {
+    "id": "pick-shit",
+    "type": "shit",
+    "label": "Shit Show of the Week",
+    "fav": "JTWaddlesHisPurdyJohnson",
+    "dog": "Skatabooboo",
+    "spread": "-29.8",
+    "total": "189.9",
+    "prob": 83,
+    "pick": "JTWaddlesHisPurdyJohnson by 29.8",
+    "title": "JTWaddlesHisPurdyJohnson vs. Skatabooboo: the lowest total of the week and nothing to play for",
+    "dek": "189.9 projected points combined, 3 percent playoff odds on one side and an 0‑9 team on the other. Look away.",
+    "body": [
+     "Every week somebody has to play in the sewer game, and this week it's JTWaddlesHisPurdyJohnson against Skatabooboo. The projected total is 189.9, the lowest on the board by 44.1 points. JTWaddlesHisPurdyJohnson scores 106.9 a week. Skatabooboo scores 83.0 a week, the worst in the league by 18.6.",
+     "Playoff implications: none. Erection Projections gives JTWaddlesHisPurdyJohnson a 3 percent chance and Skatabooboo zero. Skatabooboo is 0‑9. The only thing on the line is which one of these teams owes a can on Tuesday.",
+     "And somehow it got worse over the weekend. Skatabooboo is starting David Montgomery, who was ruled out Saturday, and still has Courtland Sutton and Chris Godwin Jr. on byes. JTWaddlesHisPurdyJohnson has Jaylen Waddle on a bye and Jake Ferguson out. The one bright spot is Cam Skattebo, who gave Skatabooboo a 27.20 to 0.00 lead on Thursday. ClaytonBigsbi, enjoy it.",
+     "The pick: JTWaddlesHisPurdyJohnson by 29.8, 83 percent. GeorigaGoocher wins this one. Nobody watches."
+    ],
+    "status": "live",
+    "result": "Live: JTWaddlesHisPurdyJohnson leads 118.06 to 100.44. Skatabooboo needs 17.63 from the Baltimore defense Monday night."
+   },
+   {
+    "id": "pick-blowie",
+    "type": "blowie",
+    "label": "Blowie of the Week",
+    "fav": "I Pulled My McCaff",
+    "dog": "Slippery Balls",
+    "spread": "-33.2",
+    "total": "241.4",
+    "prob": 86,
+    "pick": "I Pulled My McCaff by 33.2",
+    "title": "I Pulled My McCaff over Slippery Balls by 33.2: the biggest projected blowout of Week 10",
+    "dek": "The best-scoring team in the league against a team missing three running backs. This one should be over by halftime.",
+    "body": [
+     "I Pulled My McCaff scores 139.8 a week, the best in the league. Slippery Balls scores 101.6, second worst. That's a 38.2-point gap before anybody gets hurt, and this week a lot of people got hurt.",
+     "Slippery Balls has Saquon Barkley and J.K. Dobbins on byes and Josh Jacobs out. Shootyeah is starting Braelon Allen and Woody Marks at running back. I Pulled My McCaff already has 28.16 banked from Thursday, 20.76 from Jayden Daniels and 7.4 from Malik Nabers.",
+     "The only reason this isn't bigger: Kenneth Walker III was ruled out Saturday and was still in the I Pulled My McCaff lineup Sunday morning. I knocked the line down 5 assuming Hing1eMcCring13berry swaps in Blake Corum or Dylan Sampson. If he doesn't, Shootyeah gets a free zero, and this gets closer than it has any right to be.",
+     "The pick: I Pulled My McCaff by 33.2, 86 percent. Biggest margin of the week. Slippery Balls is also the top can risk if it goes sideways."
+    ],
+    "status": "hit",
+    "result": "Final: I Pulled My McCaff won 159.96 to 96.02 (+63.94). Covered, and Hing1eMcCring13berry did swap Blake Corum (20.9) in for Kenneth Walker III."
+   }
+  ],
+  "review": {
+   "w": 10,
+   "items": [],
+   "note": "Week 10 picks were set from Sunday-morning lines. Week 11 picks drop Tuesday, and the following Tuesday's briefing grades them."
   }
  }
 }
