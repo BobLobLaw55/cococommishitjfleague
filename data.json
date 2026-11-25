@@ -1,5 +1,5 @@
 {
- "updated": "Tuesday, Nov 24, 2026 · 7:00 AM ET",
+ "updated": "Wednesday, Nov 25, 2026 · 7:00 AM ET",
  "week": 12,
  "ticker": [
   [
@@ -41,47 +41,59 @@
  ],
  "wire": [
   {
-   "t": "tballsmccall owes the Week 11 can: Chase Brown scored 8.6 on Monday night, 1.5 short of the 10.1 he needed, and MarcusbetterLockNjigba finished at 74.90, 1.50 below JTWaddlesHisPurdyJohnson's 76.40. Brock Bowers was in the lineup for 0.0.",
+   "t": "Marco_Polo won the Jack Bech claim on Wednesday waivers and cut Seth McGowan, who is listed Out on Sleeper. YourMomsDildo put in a claim for Bech too and lost it, so YourMomsGivin’ Bijan’s added quarterback Deshaun Watson for Emari Demercado instead.",
+   "src": "Sleeper transactions",
+   "url": "https://sleeper.com/leagues/1340145739841425408"
+  },
+  {
+   "t": "Cavemanfsu claimed Kenny Gainwell on Wednesday, three days after dropping him on Sunday. Your Mom’s Magic Dick is 6‑5, at 36 percent, and a 21.8-point dog to Allen-tents & Purposes.",
+   "src": "Sleeper transactions",
+   "url": "https://sleeper.com/leagues/1340145739841425408"
+  },
+  {
+   "t": "Brock Bowers is up to questionable on Sleeper after two weeks listed Out, and he's in the MarcusbetterLockNjigba lineup. Sam LaPorta no longer has a designation, and the Shit Show line moves from 23.6 to 22.6.",
    "src": "Sleeper",
    "url": "https://sleeper.com/leagues/1340145739841425408"
   },
   {
-   "t": "PickensMyPukaHurts! beat YourMomsGivin’ Bijan’s 131.90 to 130.62, the closest game of Week 11. Chig Okonkwo needed 11.88 on Monday night and scored 10.6, so YourMomsDildo is 4‑7 and at 2 percent.",
+   "t": "Drake London, Kyren Williams, Dallas Goedert, DJ Moore and Derrick Henry have all cleared their Sleeper designations. Josh Jacobs and Kenneth Walker III are questionable, Jake Ferguson is doubtful, and Drake Maye is still Out.",
    "src": "Sleeper",
    "url": "https://sleeper.com/leagues/1340145739841425408"
   },
   {
-   "t": "Jayden Daniels scored 17.06 on Monday night and Rome Alone finished off I Pulled My McCaff 139.94 to 112.06. Rome Alone is 7‑4 and at 85 percent in Erection Projections; I Pulled My McCaff is 6‑5 with the most points in the league (1,530.28).",
-   "src": "Sleeper",
+   "t": "ChuckJ10 cut Cade Otton on Tuesday, a week after picking him up; he started him in Week 11 for 1.8. Kyle Pitts Sr. is the PickensMyPukaHurts! tight end for Week 12.",
+   "src": "Sleeper transactions",
    "url": "https://sleeper.com/leagues/1340145739841425408"
   },
   {
-   "t": "Joe Burrow (19.9) and Ja’Marr Chase (8.1) closed out a 113.00 to 89.54 win for Your Mom’s Magic Dick over Skatabooboo, Cavemanfsu's fourth straight. It didn't cover the 33.8, and ClaytonBigsbi is 0‑11.",
-   "src": "Sleeper",
-   "url": "https://sleeper.com/leagues/1340145739841425408"
-  },
-  {
-   "t": "Week 12 starts Wednesday with Green Bay at the Rams, then Kansas City at Buffalo, Philadelphia at Dallas and Chicago at Detroit on Thanksgiving and Denver at Pittsburgh on Friday. There are no byes; set lineups before Wednesday night.",
+   "t": "Week 12 kicks off tonight with Green Bay at the Rams, then Kansas City at Buffalo, Philadelphia at Dallas and Chicago at Detroit on Thanksgiving. Set lineups before tonight; no team has a bye.",
    "src": "Sleeper schedule",
    "url": "https://sleeper.com/leagues/1340145739841425408"
   },
   {
-   "t": "Trey McBride leads all tight ends with 87 catches in 11 games, 7.9 a game, which makes Cavemanfsu the early favorite for the Week 12 tight end receptions payout. Isaiah Likely (56 catches, 5.6 a game) of Likely Cookin That Diaper is next among league starters.",
+   "t": "Trey McBride leads all tight ends with 87 catches in 11 games, 7.9 a game, and is the favorite for the Week 12 tight end receptions payout. Isaiah Likely (5.6 a game) of Likely Cookin That Diaper is next among league starters.",
    "src": "Sleeper stats",
    "url": "https://api.sleeper.com/stats/nfl/2026?season_type=regular&position[]=TE&order_by=pts_ppr"
   },
   {
-   "t": "Drake Maye is still listed Out on Sleeper after the ankle injury in Munich; the AP reported he'll be sidelined indefinitely. C.J. Stroud (21.46 in Week 11) stays the starter for McCallyCockin(his butt).",
-   "src": "AP via AJC / Sleeper",
-   "url": "https://www.ajc.com/news/2026/11/patriots-drake-maye-will-be-sidelined-indefinitely-with-an-ankle-injury-ap-source-says/"
-  },
-  {
-   "t": "Likely Cookin That Diaper posted the high score of Week 11, 148.16 over Slippery Balls, with Fernando Mendoza's 23.88 on the bench. Travis Kelce had 25.4 and Patrick Mahomes 24.96.",
+   "t": "tballsmccall changed the team name again, and this one isn't going on the air. The site will keep calling the team MarcusbetterLockNjigba until he picks something we can print.",
    "src": "Sleeper",
    "url": "https://sleeper.com/leagues/1340145739841425408"
   }
  ],
  "stories": [
+  {
+   "id": "wed12",
+   "kicker": "Waiver Wednesday",
+   "title": "Marco_Polo beats YourMomsDildo to Jack Bech, Cavemanfsu claims back Kenny Gainwell, and Week 12 kicks off tonight",
+   "dek": "Waivers cleared overnight. Brock Bowers is up to questionable, five guys came off the injury report, and the Matchup of the Week line holds at 17.5.",
+   "body": [
+    "Waivers ran overnight, and the only real fight was for Jack Bech. Marco_Polo got him and cut Seth McGowan, who's listed Out. YourMomsDildo claimed Bech too, lost, and settled for Deshaun Watson as a backup quarterback. That's about how the season has gone for YourMomsGivin’ Bijan’s: fourth in points, 4‑7, and 3 percent in Erection Projections.",
+    "Cavemanfsu dropped Kenny Gainwell on Sunday and claimed him back on Wednesday, which is either a roster plan or a very long way to say \"my bad.\" ClaytonBigsbi swapped the Carolina defense for Washington, so Skatabooboo is doing something at 0‑11. ChuckJ10 cut Cade Otton a week after picking him up; Otton's whole PickensMyPukaHurts! career was one start and 1.8 points.",
+    "The injury report got better overnight. Drake London, Kyren Williams, Dallas Goedert, DJ Moore and Derrick Henry all cleared on Sleeper. Brock Bowers is up to questionable and sitting in the MarcusbetterLockNjigba lineup, so the Shit Show line drops a point to 22.6. Josh Jacobs and Kenneth Walker III are questionable, and Drake Maye is still Out. I'm starting C.J. Stroud.",
+    "The lines: Allen-tents & Purposes by 21.8 over Your Mom’s Magic Dick, I Pulled My McCaff by 17.5 over me, Likely Cookin That Diaper by 39.9 over Skatabooboo. The picks stay where they were set on Tuesday. Green Bay at the Rams kicks off tonight, then three games on Thanksgiving. Set your lineups before you start drinking. Except tballsmccall, who owes one from Week 11."
+   ]
+  },
   {
    "id": "tue11",
    "kicker": "Week 11 Recap",
@@ -116,18 +128,6 @@
     "The lineup: Bo Nix 11.5, Kyle Monangai 1.8, Xavier Hutchinson 3.3, the Jacksonville defense 4.0 and Brock Bowers 0.0. Ladd McConkey (20.7) and Justice Hill (17.6) were the only starters over 12. The bench had 9.20 points total.",
     "It's tballsmccall's first can of the year. GeorigaGoocher escapes by 1.50, the closest call of the season. Marco_Polo, the Week 10 can is still owed until the video lands in the league chat.",
     "Week 12 risk: Skatabooboo is the favorite to drink again at 39 percent in the sim, then JTWaddlesHisPurdyJohnson at 14 and Slippery Balls at 13."
-   ]
-  },
-  {
-   "id": "pay12",
-   "kicker": "Payout Watch",
-   "title": "RedDevil904 gets paid for the Chicago defense, and Week 12 is tight end catches",
-   "dek": "The Week 11 defense payout is final. Trey McBride leads the league's tight ends with 87 catches.",
-   "body": [
-    "Week 11 is paid: the Chicago defense scored 17.0 for Allen-tents & Purposes, a point ahead of San Francisco (16.0, Likely Cookin That Diaper) and two ahead of Houston (15.0, Your Mom’s Magic Dick). That's three payouts for RedDevil904 this year: Weeks 3, 6 and 11.",
-    "Week 12 is Not So Tight End: the starting tight end with the most receptions. Trey McBride has 87 catches in 11 games for Cavemanfsu, 7.9 a game, the most of any tight end by 31.",
-    "The chasers among likely starters: Isaiah Likely (5.6 a game, Likely Cookin That Diaper), George Kittle (4.7, I Pulled My McCaff), Tyler Warren (4.6, Skatabooboo), Harold Fannin Jr. (4.4, YourMomsGivin’ Bijan’s) and Travis Kelce (4.1, Likely Cookin That Diaper). Kelce plays Thanksgiving at Buffalo.",
-    "Brock Bowers is listed Out on Sleeper again, so tballsmccall shouldn't count on him. Week 13 is the highest-scoring FLEX."
    ]
   }
  ],
@@ -337,7 +337,7 @@
    "own": "DuvalTiliFall",
    "rec": "8‑3",
    "ap": "77‑44",
-   "take": "148.16, the high score of Week 11, with Fernando Mendoza's 23.88 on the bench as a spare. 100 percent in, 62 for a bye, and Skatabooboo is next."
+   "take": "148.16, the high score of Week 11, with Fernando Mendoza's 23.88 on the bench as a spare. 100 percent in, 63 for a bye, and Skatabooboo is next."
   },
   {
    "rk": 3,
@@ -444,16 +444,14 @@
     "LetLamarCook (2026, renamed in Week 10)",
     "JustinTimeForBeer (2025, 6-8)"
    ],
-   "w7": "vs. Skatabooboo · Line: Likely Cookin That Diaper -38.9, total 211.1",
+   "w7": "vs. Skatabooboo · Line: Likely Cookin That Diaper -39.9, total 211.1",
    "inj": [
-    "Lamar Jackson (IR, thumb)",
-    "Drake London (Questionable on Sleeper)",
-    "Kyren Williams (Questionable on Sleeper)"
+    "Lamar Jackson (IR)"
    ],
    "body": [
     "8‑3, tied for first, with 1,380.30 points and a 77‑44 all-play.",
     "Week 11: beat Slippery Balls 148.16 to 88.16, the high score of the week. Travis Kelce 25.4, Patrick Mahomes 24.96, Mike Evans 22.9, Antonio Williams 21.2. Fernando Mendoza had 23.88 on the bench.",
-    "Week 12: Skatabooboo, the Blowie of the Week at 38.9. 100 percent to make it, 62 for a bye."
+    "Week 12: Skatabooboo, the Blowie of the Week (picked at 38.9; the line is 39.9 now that Drake London and Kyren Williams have cleared). 100 percent to make it, 63 for a bye."
    ]
   },
   {
@@ -469,15 +467,14 @@
     "Amber Heard (2025, runner-up)",
     "WILSON! (2024, 6-8)"
    ],
-   "w7": "vs. Your Mom’s Magic Dick · Line: Allen-tents & Purposes -20.8, total 259.6",
+   "w7": "vs. Your Mom’s Magic Dick · Line: Allen-tents & Purposes -21.8, total 259.6",
    "inj": [
-    "Davante Adams (IR)",
-    "Dallas Goedert (Questionable on Sleeper)"
+    "Davante Adams (IR)"
    ],
    "body": [
     "First place at 8‑3 with 1,542.36 points and an 89‑32 all-play. Four straight wins.",
     "Week 11: beat JTWaddlesHisPurdyJohnson 141.66 to 76.40 (+65.26), the blowout of the week, with Josh Allen at 12.16. Jonah Coleman 34.9, Jahmyr Gibbs 27.8, and the Chicago defense's 17.0 won the Week 11 payout.",
-    "Week 12: Your Mom’s Magic Dick, which has won four straight. 91 percent for a bye, 76 for the 1 seed."
+    "Week 12: Your Mom’s Magic Dick, which has won four straight, at 21.8. 91 percent for a bye, 76 for the 1 seed."
    ]
   },
   {
@@ -496,12 +493,12 @@
    "w7": "vs. McCallyCockin(his butt) · Line: I Pulled My McCaff -17.5, total 260.7",
    "inj": [
     "Alec Pierce (IR)",
-    "Kenneth Walker III (Out on Sleeper)"
+    "Kenneth Walker III (Questionable on Sleeper)"
    ],
    "body": [
     "6‑5 with 1,530.28 points, second in the league, and a 90‑31 all-play, the best in the league.",
     "Week 11: lost to Rome Alone 139.94 to 112.06. Jayden Daniels scored 17.06 on Monday night; Malik Nabers 18.5, George Kittle 18.4. Keon Coleman scored 3.7 with Brian Thomas Jr. (8.8) on the bench.",
-    "Week 12: McCallyCockin(his butt), the Matchup of the Week, as a 17.5-point favorite. 90 percent to make it."
+    "Week 12: McCallyCockin(his butt), the Matchup of the Week, as a 17.5-point favorite. Kenneth Walker III is questionable on Sleeper. 90 percent to make it."
    ]
   },
   {
@@ -517,16 +514,14 @@
     "It was fun…..i guess (2025, 11-3, third place)",
     "Team balls (2024, 8-6)"
    ],
-   "w7": "vs. JTWaddlesHisPurdyJohnson · Line: PickensMyPukaHurts! -17.3, total 228.5",
+   "w7": "vs. JTWaddlesHisPurdyJohnson · Line: PickensMyPukaHurts! -18.3, total 228.5",
    "inj": [
-    "Puka Nacua (IR, knee)",
-    "Derrick Henry (Questionable on Sleeper)",
-    "Jalen Coker (Questionable on Sleeper)"
+    "Puka Nacua (IR)"
    ],
    "body": [
     "7‑4 and third, with 1,357.46 points. Two straight wins.",
     "Week 11: beat YourMomsGivin’ Bijan’s 131.90 to 130.62, the closest game of the week. Dak Prescott scored 35.9, the best starter score of Week 11, and George Pickens 23.8. Cade Otton, picked up Wednesday, scored 1.8.",
-    "Week 12: JTWaddlesHisPurdyJohnson. 97 percent to make it, 21 for a bye. Dak Prescott and George Pickens play Philadelphia on Thanksgiving."
+    "Week 12: JTWaddlesHisPurdyJohnson at 18.3. 97 percent to make it, 21 for a bye. Cut Cade Otton a week after picking him up. Dak Prescott and George Pickens play Philadelphia on Thanksgiving."
    ]
   },
   {
@@ -544,9 +539,8 @@
    ],
    "w7": "vs. I Pulled My McCaff · Line: I Pulled My McCaff -17.5, total 260.7",
    "inj": [
-    "Drake Maye (Out, ankle)",
+    "Drake Maye (Out on Sleeper)",
     "RJ Harvey (IR)",
-    "DJ Moore (Questionable on Sleeper)",
     "Bhayshul Tuten (Questionable on Sleeper)"
    ],
    "body": [
@@ -570,13 +564,12 @@
    ],
    "w7": "vs. Slippery Balls · Line: Rome Alone -22.8, total 220.5",
    "inj": [
-    "Jordan Addison (IR)",
-    "Seth McGowan (Out on Sleeper)"
+    "Jordan Addison (Doubtful on Sleeper)"
    ],
    "body": [
     "7‑4 and fifth, with 1,327.46 points.",
     "Week 11: beat I Pulled My McCaff 139.94 to 112.06, a week after scoring 71.60 and owing the can. CeeDee Lamb 30.2, Ashton Jeanty 28.9, Jameson Williams 20.3, Bucky Irving 19.0. Seth McGowan started and scored 1.8.",
-    "Week 12: Slippery Balls. 85 percent to make it. CeeDee Lamb plays Philadelphia on Thanksgiving, and the Chicago group plays at Detroit."
+    "Week 12: Slippery Balls. 85 percent to make it. Won the Jack Bech claim on Wednesday waivers and cut Seth McGowan, who was listed Out. CeeDee Lamb plays Philadelphia on Thanksgiving."
    ]
   },
   {
@@ -592,14 +585,14 @@
     "The Brown & Bijan Shough (earlier in 2026)",
     "Concussion Protocol (2025, champion)"
    ],
-   "w7": "vs. MarcusbetterLockNjigba · Line: YourMomsGivin’ Bijan’s -23.6, total 233.3",
+   "w7": "vs. MarcusbetterLockNjigba · Line: YourMomsGivin’ Bijan’s -22.6, total 233.3",
    "inj": [
     "No injury designations on Sleeper"
    ],
    "body": [
     "4‑7 with 1,402.22 points, fourth in the league, and a 71‑50 all-play.",
     "Week 11: lost to PickensMyPukaHurts! 131.90 to 130.62, the highest losing score of the week. Chuba Hubbard 26.0, Javonte Williams 24.1 and Cam Ward 23.22. Chig Okonkwo needed 11.88 on Monday night and scored 10.6.",
-    "Week 12: MarcusbetterLockNjigba, the Shit Show of the Week. 2 percent."
+    "Week 12: MarcusbetterLockNjigba, the Shit Show of the Week, at 22.6. Lost the Jack Bech claim to Marco_Polo and added Deshaun Watson for Emari Demercado. 3 percent."
    ]
   },
   {
@@ -616,12 +609,12 @@
     "JTT Dowdles my Chubb (2025, 11-3)",
     "Poo Poo Pachecoo (2024, 5-9)"
    ],
-   "w7": "vs. PickensMyPukaHurts! · Line: PickensMyPukaHurts! -17.3, total 228.5",
+   "w7": "vs. PickensMyPukaHurts! · Line: PickensMyPukaHurts! -18.3, total 228.5",
    "inj": [
     "Tyrone Tracy Jr. (IR)",
-    "Brian Robinson Jr. (IR)",
-    "Jake Ferguson (Out on Sleeper)",
-    "Juwan Johnson (Questionable on Sleeper)"
+    "Juwan Johnson (Questionable on Sleeper)",
+    "Jake Ferguson (Doubtful on Sleeper)",
+    "Brian Robinson Jr. (IR)"
    ],
    "body": [
     "5‑6 with 1,156.26 points and a 49‑72 all-play.",
@@ -643,16 +636,15 @@
     "BrentMayfieldsomepain (earlier in 2026, 2-5)",
     "ABRACADABRAMOTHAFUCKA🪄 (2025, 2-12)"
    ],
-   "w7": "vs. YourMomsGivin’ Bijan’s · Line: YourMomsGivin’ Bijan’s -23.6, total 233.3",
+   "w7": "vs. YourMomsGivin’ Bijan’s · Line: YourMomsGivin’ Bijan’s -22.6, total 233.3",
    "inj": [
-    "Brock Bowers (Out on Sleeper)",
-    "Sam LaPorta (Questionable on Sleeper)",
-    "Sam Darnold (Out on Sleeper)"
+    "Brock Bowers (Questionable on Sleeper)",
+    "Sam Darnold (Questionable on Sleeper)"
    ],
    "body": [
     "5‑6 with 1,164.52 points and a 40‑81 all-play. Three-game win streak snapped.",
     "Week 11: lost to McCallyCockin(his butt) 115.16 to 74.90, the lowest score of the week. Ladd McConkey 20.7 and Justice Hill 17.6; Chase Brown 8.6 and Brock Bowers 0.0. tballsmccall owes the can.",
-    "Week 12: YourMomsGivin’ Bijan’s, the Shit Show of the Week. 1 percent to make it."
+    "Week 12: YourMomsGivin’ Bijan’s, the Shit Show of the Week, at 22.6. Brock Bowers is up to questionable on Sleeper. 1 percent to make it. tballsmccall changed the team name again; this network is sticking with MarcusbetterLockNjigba."
    ]
   },
   {
@@ -667,15 +659,16 @@
    "past": [
     "Playing McConkey dick (2025, 6-8)"
    ],
-   "w7": "vs. Allen-tents & Purposes · Line: Allen-tents & Purposes -20.8, total 259.6",
+   "w7": "vs. Allen-tents & Purposes · Line: Allen-tents & Purposes -21.8, total 259.6",
    "inj": [
-    "Dalton Kincaid (Out on Sleeper)",
-    "TreVeyon Henderson (IR)"
+    "Dalton Kincaid (Questionable on Sleeper)",
+    "TreVeyon Henderson (IR)",
+    "Denzel Boston (Questionable on Sleeper)"
    ],
    "body": [
     "6‑5 with four straight wins and 1,313.16 points.",
     "Week 11: beat Skatabooboo 113.00 to 89.54. Emmett Johnson 24.3, Joe Burrow 19.9, the Houston defense 15.0, Trey McBride 14.8 and Carnell Tate 14.8. Aaron Jones Sr. had 11.3 on the bench.",
-    "Week 12: Allen-tents & Purposes. 36 percent to make it. Trey McBride leads all tight ends with 87 catches going into the receptions payout week."
+    "Week 12: Allen-tents & Purposes at 21.8. 36 percent to make it. Claimed Kenny Gainwell back on Wednesday, three days after dropping him. Trey McBride leads all tight ends with 87 catches going into the receptions payout week."
    ]
   },
   {
@@ -694,9 +687,9 @@
    ],
    "w7": "vs. Rome Alone · Line: Rome Alone -22.8, total 220.5",
    "inj": [
-    "Josh Jacobs (Out on Sleeper)",
-    "Woody Marks (Out on Sleeper)",
-    "Saquon Barkley (Questionable on Sleeper)",
+    "Woody Marks (Questionable on Sleeper)",
+    "Josh Jacobs (Questionable on Sleeper)",
+    "J.K. Dobbins (Out on Sleeper)",
     "Romeo Doubs (IR)",
     "Wan'Dale Robinson (IR)",
     "Dontayvion Wicks (IR)"
@@ -720,7 +713,7 @@
     "Dropped Balls (2025, 5-9)",
     "Clayton Bigsbys (2024, 6-8)"
    ],
-   "w7": "vs. Likely Cookin That Diaper · Line: Likely Cookin That Diaper -38.9, total 211.1",
+   "w7": "vs. Likely Cookin That Diaper · Line: Likely Cookin That Diaper -39.9, total 211.1",
    "inj": [
     "Jonathon Brooks (IR)",
     "Jeremiyah Love (IR)"
@@ -728,42 +721,42 @@
    "body": [
     "0‑11 with 941.36 points. Eliminated.",
     "Week 11: lost to Your Mom’s Magic Dick 113.00 to 89.54, inside the 33.8-point line. David Montgomery 15.4, Chimere Dike 13.3, Mike Gesicki 12.7. Xavier Worthy had 11.8 on the bench. Picked up Chris Godwin Jr. and the Carolina defense.",
-    "Week 12: Likely Cookin That Diaper, the Blowie of the Week at 38.9. 39 percent to post the low score."
+    "Week 12: Likely Cookin That Diaper, the Blowie of the Week. Swapped the Carolina defense for Washington on waivers. 39 percent to post the low score."
    ]
   }
  ],
  "rumors": [
   {
    "src": "Per league sources",
-   "t": "tballsmccall has reportedly asked Sleeper whether a shotgun can be split into installments. Sleeper is said to have replied with a single image of a can and the number 74.90."
+   "t": "Marco_Polo is said to have celebrated winning the Jack Bech claim by changing his phone wallpaper to the waiver results. Witnesses report it's still more effort than he's put into the Week 10 shotgun video."
   },
   {
    "src": "Developing",
-   "t": "GeorigaGoocher is said to have opened the can he bought Sunday the second Chase Brown's last carry ended, and drunk it in celebration. Witnesses note this technically makes him the first person to shotgun a beer for not losing."
+   "t": "Cavemanfsu has reportedly given Kenny Gainwell a key to the roster so he can let himself back in next time. League sources expect the next drop sometime around Saturday."
   },
   {
    "src": "Unconfirmed",
-   "t": "YourMomsDildo has reportedly filed a formal complaint with the NFL asking for 1.28 more yards to be retroactively awarded to Chig Okonkwo. The league office is believed to have forwarded it to a fax machine that doesn't exist."
+   "t": "YourMomsDildo is believed to have filed an appeal of the Jack Bech claim on the grounds that he wanted it more. Sleeper is said to have responded by processing it again and giving it to Marco_Polo a second time."
   },
   {
    "src": "Sources close to the situation",
-   "t": "Hing1eMcCring13berry has reportedly hired an accountant to explain how 1,530.28 points equals 6‑5. The accountant is said to have quit after reading the all-play."
-  },
-  {
-   "src": "Developing",
-   "t": "Marco_Polo is said to be filming the Week 10 shotgun video in 4K with a three-camera setup and a director's commentary track. The league chat reports the release date is 'after the playoffs, for awards consideration.'"
+   "t": "tballsmccall has reportedly told the league he'll pick a printable team name the same day he posts the Week 11 shotgun video. Insiders note that neither has a deadline."
   },
   {
    "src": "Per league sources",
-   "t": "DuvalTiliFall has reportedly started bringing Fernando Mendoza's 23.88 bench points up at Thanksgiving dinner as if they counted. Family members are said to be confused about who Fernando is."
-  },
-  {
-   "src": "Unconfirmed",
-   "t": "ClaytonBigsbi is believed to have rented a billboard reading 'Skatabooboo: Kept It Within 24.' The billboard company reportedly asked if that was a good thing."
+   "t": "ClaytonBigsbi is said to have picked up the Washington defense after reading that defenses win championships. He has reportedly not been told about the 0‑11 part."
   },
   {
    "src": "Developing",
-   "t": "Bill_Buttlicker has reportedly asked co-commissioner RedDevil904 whether the Matchup of the Week line can be appealed. RedDevil904 is said to have replied with the 17.5 and a thumbs-up emoji."
+   "t": "ChuckJ10 is believed to have sent Cade Otton a fruit basket and a participation certificate for one start and 1.8 points. The basket was reportedly larger than the start."
+  },
+  {
+   "src": "Unconfirmed",
+   "t": "Hing1eMcCring13berry has reportedly asked whether the Matchup of the Week can be moved to the all-play format, where I Pulled My McCaff is 90‑31. Co-commissioner RedDevil904 is said to have laughed for eleven minutes."
+  },
+  {
+   "src": "Developing",
+   "t": "Bill_Buttlicker has reportedly started C.J. Stroud, set his lineup four times and opened the line page nine times since Tuesday. The 17.5 is said to have not moved once."
   }
  ],
  "trades": [
@@ -780,18 +773,6 @@
    "tag": "Both sides win"
   },
   {
-   "a": "I Pulled My McCaff",
-   "aget": [
-    "Rachaad White"
-   ],
-   "b": "MarcusbetterLockNjigba",
-   "bget": [
-    "KC Concepcion Jr."
-   ],
-   "why": "Hing1eMcCring13berry is still without Kenneth Walker III and started Jaylen Warren for 4.9. tballsmccall started Xavier Hutchinson (3.3) and needs any receiver who can catch.",
-   "tag": "Fair"
-  },
-  {
    "a": "Your Mom’s Magic Dick",
    "aget": [
     "Jakobi Meyers"
@@ -804,6 +785,18 @@
    "tag": "Fair"
   },
   {
+   "a": "YourMomsGivin’ Bijan’s",
+   "aget": [
+    "Jack Bech"
+   ],
+   "b": "Rome Alone",
+   "bget": [
+    "Chuba Hubbard"
+   ],
+   "why": "YourMomsDildo wanted Jack Bech badly enough to put in a claim. Marco_Polo just cut Seth McGowan and could use another running back. A starting running back for the receiver he lost on waivers.",
+   "tag": "Fair"
+  },
+  {
    "a": "PickensMyPukaHurts!",
    "aget": [
     "Pat Freiermuth"
@@ -812,7 +805,7 @@
    "bget": [
     "Makai Lemon"
    ],
-   "why": "ChuckJ10 got 1.8 from Cade Otton. Pat Freiermuth has 32 catches and sat on the Skatabooboo bench with 9.0. ClaytonBigsbi is eliminated and might as well collect young receivers.",
+   "why": "ChuckJ10 cut Cade Otton on Tuesday after a 1.8 and has Kyle Pitts Sr. as the only tight end left. Pat Freiermuth has 32 catches and sat on the Skatabooboo bench with 9.0. ClaytonBigsbi is eliminated and might as well collect young receivers.",
    "tag": "Fair"
   },
   {
@@ -824,7 +817,7 @@
    "bget": [
     "Rhamondre Stevenson"
    ],
-   "why": "Marco_Polo has Jordan Addison on IR and Rome Odunze at 8.5. Xavier Worthy scored 11.8 on the Skatabooboo bench. Rome Alone has running backs to spare.",
+   "why": "Marco_Polo just added Jack Bech and still has Jordan Addison doubtful and Rome Odunze at 8.5. Xavier Worthy scored 11.8 on the Skatabooboo bench. Rome Alone has running backs to spare even after cutting Seth McGowan.",
    "tag": "Both sides win"
   },
   {
@@ -873,29 +866,29 @@
   "trying": [
    [
     "MarcusbetterLockNjigba",
-    "tballsmccall owes the can, and Chase Brown missed the rescue by 1.5 points. 74.90 with Brock Bowers in the lineup for 0.0 and a bench worth 9.20."
-   ],
-   [
-    "I Pulled My McCaff",
-    "Most points in the league and 6‑5. Lost 139.94 to 112.06 to Rome Alone and now has to beat me, which on paper is easy and in my heart is not."
+    "tballsmccall owes a can and changed his team name to something we won't print. Brock Bowers is up to questionable, the line is 22.6, and the playoff odds are 1 percent."
    ],
    [
     "YourMomsGivin’ Bijan’s",
-    "Lost by 1.28 with 130.62, the highest losing score of the week. Chig Okonkwo needed 11.88 and got 10.6, and YourMomsDildo is 4‑7 at 2 percent."
+    "Lost the Jack Bech claim to Marco_Polo and settled for a backup quarterback. 4‑7, 3 percent, and still fourth in points."
+   ],
+   [
+    "Your Mom’s Magic Dick",
+    "Dropped Kenny Gainwell Sunday, claimed him back Wednesday. Cavemanfsu is 6‑5, at 36 percent, and a 21.8-point dog to the first-place team."
    ]
   ],
   "gfy": [
    [
-    "Likely Cookin That Diaper",
-    "148.16, the high score of the week, with 23.88 sitting on the bench. DuvalTiliFall is 8‑3 and gets Skatabooboo next."
+    "Rome Alone",
+    "Won the only waiver fight of the week. Marco_Polo gets Jack Bech, gets Slippery Balls, and still hasn't posted the Week 10 video."
    ],
    [
-    "Rome Alone",
-    "Marco_Polo went from the can to 139.94 over the best scoring team in the league. 7‑4 and 85 percent, and still hasn't posted the Week 10 video."
+    "Allen-tents & Purposes",
+    "91 percent for a bye, 76 for the 1 seed, and a 21.8-point favorite. RedDevil904 doesn't need waivers."
    ],
    [
     "PickensMyPukaHurts!",
-    "Won by 1.28 when a tight end came up short on Monday night. Dak Prescott 35.9, ChuckJ10 is 7‑4 and at 97 percent."
+    "Cut Cade Otton a week after his 1.8 and is still 97 percent to make it. Derrick Henry cleared on Sleeper and ChuckJ10 keeps winning the coin flips."
    ]
   ]
  },
@@ -903,56 +896,60 @@
   {
    "fav": "Allen-tents & Purposes",
    "dog": "Your Mom’s Magic Dick",
-   "spread": "-20.8",
+   "spread": "-21.8",
    "total": "259.6",
-   "note": "Season PPG gap 20.8, no change. No byes in Week 12. Dallas Goedert is questionable for Allen-tents & Purposes; Dalton Kincaid is out but on the Your Mom’s Magic Dick bench.",
-   "prob": 75
+   "prob": 76,
+   "note": "Season PPG gap 20.8, plus 1: Denzel Boston is questionable on Sleeper and in the Your Mom’s Magic Dick lineup. Dallas Goedert has cleared for Allen-tents & Purposes; Davante Adams is on IR."
   },
   {
    "fav": "I Pulled My McCaff",
    "dog": "McCallyCockin(his butt)",
    "spread": "-17.5",
    "total": "260.7",
-   "note": "Season PPG gap 17.5, no net change: I Pulled My McCaff is without Kenneth Walker III (-2); McCallyCockin(his butt) is without Drake Maye, with DJ Moore and Bhayshul Tuten questionable on Sleeper (-2).",
-   "prob": 71
+   "prob": 71,
+   "note": "Season PPG gap 17.5, no net change: Kenneth Walker III is questionable on Sleeper and Alec Pierce is on IR for I Pulled My McCaff (-1); McCallyCockin(his butt) is without Drake Maye and has Bhayshul Tuten questionable (-1). DJ Moore has cleared."
   },
   {
    "fav": "YourMomsGivin’ Bijan’s",
    "dog": "MarcusbetterLockNjigba",
-   "spread": "-23.6",
+   "spread": "-22.6",
    "total": "233.3",
-   "note": "Season PPG gap 21.6, plus 2: MarcusbetterLockNjigba has Brock Bowers listed Out and Sam LaPorta questionable. YourMomsGivin’ Bijan’s has no injury designations.",
-   "prob": 78
+   "prob": 77,
+   "note": "Season PPG gap 21.6, plus 1: Brock Bowers is up to questionable on Sleeper for MarcusbetterLockNjigba, down from 2 on Tuesday when he was Out. YourMomsGivin’ Bijan’s has no injury designations."
   },
   {
    "fav": "Likely Cookin That Diaper",
    "dog": "Skatabooboo",
-   "spread": "-38.9",
+   "spread": "-39.9",
    "total": "211.1",
-   "note": "Season PPG gap 39.9, cut 1: Drake London and Kyren Williams are questionable on Sleeper for Likely Cookin That Diaper. Skatabooboo has its two IR backs already parked.",
-   "prob": 90
+   "prob": 90,
+   "note": "Season PPG gap 39.9, no change: Drake London and Kyren Williams have cleared on Sleeper, so Tuesday's 1-point cut is gone. The Blowie pick stays locked at 38.9. Skatabooboo picked up the Washington defense."
   },
   {
    "fav": "PickensMyPukaHurts!",
    "dog": "JTWaddlesHisPurdyJohnson",
-   "spread": "-17.3",
+   "spread": "-18.3",
    "total": "228.5",
-   "note": "Season PPG gap 18.3, cut 1: PickensMyPukaHurts! has Puka Nacua on IR and Derrick Henry questionable on Sleeper (-2); JTWaddlesHisPurdyJohnson has Jake Ferguson out (-1).",
-   "prob": 71
+   "prob": 72,
+   "note": "Season PPG gap 18.3, no net change: PickensMyPukaHurts! has Puka Nacua on IR (-1), and Derrick Henry has cleared; JTWaddlesHisPurdyJohnson has Jake Ferguson doubtful and Juwan Johnson questionable (-1)."
   },
   {
    "fav": "Rome Alone",
    "dog": "Slippery Balls",
    "spread": "-22.8",
    "total": "220.5",
-   "note": "Season PPG gap 20.8, plus 2: Slippery Balls has Josh Jacobs and Woody Marks out (-3); Rome Alone has Jordan Addison on IR (-1).",
-   "prob": 77
+   "prob": 77,
+   "note": "Season PPG gap 20.8, plus 2: Slippery Balls has Josh Jacobs and Woody Marks questionable and J.K. Dobbins out (-3); Rome Alone has Jordan Addison doubtful (-1)."
   }
  ],
  "sources": [
   [
    "Is This Just Fantasy league scoreboard and transactions (Sleeper)",
    "https://sleeper.com/leagues/1340145739841425408"
+  ],
+  [
+   "Week 11 waivers and transactions, processed Wednesday morning (Sleeper)",
+   "https://api.sleeper.app/v1/league/1340145739841425408/transactions/11"
   ],
   [
    "Patriots' Drake Maye will be sidelined indefinitely with an ankle injury, AP source says (AJC)",
@@ -969,10 +966,6 @@
   [
    "2026 tight end receiving stats (Sleeper)",
    "https://api.sleeper.com/stats/nfl/2026?season_type=regular&position[]=TE&order_by=pts_ppr"
-  ],
-  [
-   "Week 11 defense scoring (Sleeper)",
-   "https://api.sleeper.com/stats/nfl/2026/11?season_type=regular&position[]=DEF&order_by=pts_ppr"
   ]
  ],
  "columnists": [
@@ -1007,16 +1000,16 @@
  ],
  "columns": [
   {
-   "id": "cc-mouthtue11",
+   "id": "cc-mouthwed12",
    "by": "mouth",
    "kicker": "Opinion",
-   "title": "Brock Bowers scored 0.0 and tballsmccall still had a chance. Then Chase Brown happened.",
-   "dek": "Three straight wins, one Monday night, 1.5 points. That's the whole story of MarcusbetterLockNjigba's Week 11.",
+   "title": "Kenny Gainwell has been dropped and re-signed in the same week. Cavemanfsu, pick a lane.",
+   "dek": "Four straight wins, a 21.8-point line and a waiver wire used like a revolving door.",
    "body": [
-    "I want to be fair to tballsmccall. He came into Week 11 on a three-game win streak. He'd beaten Rome Alone with Drew Lock at quarterback. He was 5‑5, and for one week the jokes were on everybody else.",
-    "Then the lineup. Bo Nix, 11.5. Kyle Monangai, 1.8. Xavier Hutchinson, 3.3. The Jacksonville defense, 4.0. Brock Bowers, 0.0. The bench scored 9.20 in total, which tells you there wasn't a rescue sitting there either. MarcusbetterLockNjigba was at 66.30 going into Monday night, needing 10.1 from Chase Brown to pass JTWaddlesHisPurdyJohnson.",
-    "I'm hearing Chase Brown has asked tballsmccall for a sit-down about the locker-room vibe. Word is he's tired of being the last guy on the board every Monday with the whole league doing math on his carries, and he'd like a team where the stakes are something other than a can of light beer.",
-    "Brown scored 8.6. Final: 74.90, 1.50 below GeorigaGoocher, who'd spent Sunday night staring at an unopened beer. One and a half points! So here it is, tballsmccall. You can't fix it now. You can't appeal it. You can only do one thing. CRACK IT, CHUG IT, AND POST THE VIDEO BEFORE THANKSGIVING."
+    "Let me start with the part Cavemanfsu deserves credit for. Your Mom’s Magic Dick has won four straight. It has Trey McBride, who leads every tight end in football with 87 catches, in the one week this league pays for catches. It is 6‑5 and alive at 36 percent.",
+    "Now the rest. On Sunday Cavemanfsu dropped Kenny Gainwell. On Wednesday morning, after waivers ran, Kenny Gainwell was back on the roster. Nothing about Kenny Gainwell changed in those three days. He plays for the same team. He has no injury designation. The only thing that moved was a manager's confidence.",
+    "I'm hearing Kenny Gainwell has asked Cavemanfsu for a little stability around the Your Mom’s Magic Dick locker room. Word is he's fine with the role, likes the tight end and loves the win streak, but he'd prefer to unpack his bag at least once before December.",
+    "And this week is not a week for wandering. Allen-tents & Purposes scores 140.2 a game and is a 21.8-point favorite. Denzel Boston is questionable in your lineup. The math says you need a big week and help elsewhere. So here's the advice, Cavemanfsu, from someone who has watched every one of your transactions. SET THE LINEUP ONCE AND LEAVE IT ALONE!"
    ],
    "rumor": true
   },
@@ -1037,17 +1030,17 @@
    "rumor": true
   },
   {
-   "id": "cc-daletue11",
+   "id": "cc-dalewed12",
    "by": "dale",
    "kicker": "Strategy",
-   "title": "Five moves for a short week, from the only strategist who sets lineups on Tuesday",
-   "dek": "Week 12 starts Wednesday. Your Senior Fantasy Strategist (self-appointed) has a plan, and it's all in order.",
+   "title": "Six Thanksgiving lineup moves, from the only strategist who sets lineups before the turkey",
+   "dek": "Week 12 kicks off tonight. Your Senior Fantasy Strategist (self-appointed) has a plan for each of you, and each plan is a plan.",
    "body": [
-    "Short week. Wednesday kickoff. Thanksgiving triple-header. Most managers panic. I've already set my lineup three times. Five moves.",
-    "1. Cavemanfsu: bench Trey McBride for the tight end receptions payout. He has 87 catches in 11 games. Everyone expects him to win it. The house always adjusts to the favorite. Start Dalton Kincaid instead; he's listed Out, so nobody's covering him.",
-    "2. Bill_Buttlicker: I Pulled My McCaff scores 139.1 a week and you're a 17.5-point dog. Start both Pittsburgh and Tampa Bay defenses. Two defenses is a wall. And 3. Hing1eMcCring13berry: leave the Kenneth Walker III slot exactly as it is. Momentum is a stat.",
-    "I'm told Trey McBride has been asking around the Your Mom’s Magic Dick clubhouse whether Cavemanfsu would consider a team name he can say out loud at Thanksgiving dinner. Sources say he's otherwise thrilled with the situation, the targets and the four-game win streak, and he's sent over a list of suggestions that are all just his own name.",
-    "4. DuvalTiliFall: start Fernando Mendoza over Patrick Mahomes. Mendoza scored 23.88 on the bench in Week 11, and bench points are proven points. 5. ClaytonBigsbi: don't set a lineup at all. Skatabooboo is 0‑11 setting lineups. The only untested strategy left is not setting one. That's just science."
+    "Wednesday kickoff, three games on Thanksgiving, one on Friday. Most managers will set lineups between the stuffing and the pie. Not my clients. Six moves, in order of importance.",
+    "1. YourMomsDildo: you lost the Jack Bech claim and added a backup quarterback. Start both quarterbacks. Cam Ward and a second quarterback is two quarterbacks, and two is more than one. 2. Marco_Polo: you won Jack Bech. Start him over CeeDee Lamb. New guys are motivated. Lamb has been here for weeks.",
+    "3. tballsmccall: Brock Bowers is back to questionable on Sleeper. Questionable means maybe, and maybe is a 50 percent chance of a full game. Start him at tight end and at flex. Double the maybe. 4. Shootyeah: Josh Jacobs is questionable too. You're eliminated. Start him anyway. Hope is a stat.",
+    "Word around the Rome Alone facility is that Jack Bech showed up for his first day and asked Marco_Polo about the team's culture, specifically whether the Week 10 video is ever coming. Sources say he's thrilled to be there and has already offered to hold the camera.",
+    "5. ChuckJ10: you cut Cade Otton. Pick him back up. Cavemanfsu just proved you can re-sign a guy three days later, and nobody gets to cut my sleepers. 6. Bill_Buttlicker: you're a 17.5-point dog to I Pulled My McCaff. Bench C.J. Stroud and start no quarterback. They won't see it coming. That's just strategy."
    ],
    "rumor": true
   },
@@ -1069,6 +1062,11 @@
  ],
  "exits": [
   {
+   "p": "Cade Otton",
+   "team": "PickensMyPukaHurts!",
+   "t": "Picked up last Wednesday, started in Week 11 for 1.8 points, dropped on Tuesday. PickensMyPukaHurts! won by 1.28 anyway, and Kyle Pitts Sr. is back at tight end."
+  },
+  {
    "p": "Ryan Flournoy",
    "team": "JTWaddlesHisPurdyJohnson",
    "t": "Started at receiver in Week 11 and scored 2.1 while Rashod Bateman had 15.7 on the bench. That swap alone was 13.6 points in a 65.26-point loss."
@@ -1082,11 +1080,6 @@
    "p": "Keon Coleman",
    "team": "I Pulled My McCaff",
    "t": "Started at receiver and scored 3.7 in Week 11 while Brian Thomas Jr. had 8.8 on the bench. I Pulled My McCaff lost to Rome Alone by 27.88."
-  },
-  {
-   "p": "Pat Bryant",
-   "team": "YourMomsGivin’ Bijan’s",
-   "t": "Scored 6.2 as a starting receiver in Week 11. YourMomsGivin’ Bijan’s lost by 1.28, so every one of Pat Bryant's missing points is on the tape."
   },
   {
    "p": "Kyle Monangai",
@@ -1556,7 +1549,7 @@
    "score": "74.90",
    "t": "tballsmccall, it's your turn. MarcusbetterLockNjigba scored 74.90, the lowest score of Week 11, with Brock Bowers in the lineup for 0.0 and Chase Brown 1.5 points short of saving you on Monday night. Shotgun it, film it, post it in the league chat."
   },
-  "next": "Week 12 watch: Skatabooboo is the favorite at 39 percent in the sim against Likely Cookin That Diaper, then JTWaddlesHisPurdyJohnson at 14, Slippery Balls at 13 and MarcusbetterLockNjigba at 9. tballsmccall's last three scores average 88.69.",
+  "next": "Week 12 watch: Skatabooboo is the favorite at 39 percent in the sim against Likely Cookin That Diaper, then JTWaddlesHisPurdyJohnson at 14, Slippery Balls at 13 and MarcusbetterLockNjigba at 9. tballsmccall still owes the Week 11 video, and Brock Bowers is back to questionable.",
   "wall": {
    "title": "The Curt Kobains",
    "sub": "Every week's lowest score this season. One row, one can.",
@@ -1660,9 +1653,9 @@
    "ppg": 125.5,
    "wins": 9.8,
    "odds": 100,
-   "bye": 62,
+   "bye": 63,
    "seed": "2.4",
-   "take": "100 percent in and 62 for a bye. Skatabooboo is the only thing between DuvalTiliFall and 9‑3."
+   "take": "100 percent in and 63 for a bye. Skatabooboo is the only thing between DuvalTiliFall and 9‑3."
   },
   {
    "team": "PickensMyPukaHurts!",
@@ -1673,7 +1666,7 @@
    "odds": 97,
    "bye": 21,
    "seed": "3.5",
-   "take": "97 percent and 21 for a bye. ChuckJ10 keeps winning the close ones."
+   "take": "97 percent and 21 for a bye. ChuckJ10 keeps winning the close ones and cutting the tight ends who help."
   },
   {
    "team": "I Pulled My McCaff",
@@ -1682,9 +1675,9 @@
    "ppg": 139.1,
    "wins": 8.2,
    "odds": 90,
-   "bye": 8,
+   "bye": 7,
    "seed": "4.3",
-   "take": "90 percent. The best all-play in the league and three losses it didn't deserve. Plays me next."
+   "take": "90 percent. The best all-play in the league and three losses it didn't deserve. Plays me tonight-ish."
   },
   {
    "team": "McCallyCockin(his butt)",
@@ -1694,7 +1687,7 @@
    "wins": 8.6,
    "odds": 87,
    "bye": 6,
-   "seed": "4.5",
+   "seed": "4.6",
    "take": "87 percent. A 17.5-point dog this week, which is disrespectful and accurate."
   },
   {
@@ -1706,7 +1699,7 @@
    "odds": 85,
    "bye": 12,
    "seed": "4.4",
-   "take": "85 percent, up from 82. Marco_Polo gets Slippery Balls, which is a gift."
+   "take": "85 percent. Marco_Polo won the Jack Bech claim and gets Slippery Balls. Some people have all the luck."
   },
   {
    "team": "Your Mom’s Magic Dick",
@@ -1717,7 +1710,7 @@
    "odds": 36,
    "bye": 0,
    "seed": "5.4",
-   "take": "36 percent. Four straight wins and still needs to beat Allen-tents & Purposes and get help."
+   "take": "36 percent. Four straight wins, Kenny Gainwell back on the roster, and still needs to beat Allen-tents & Purposes and get help."
   },
   {
    "team": "YourMomsGivin’ Bijan’s",
@@ -1725,10 +1718,10 @@
    "rec": "4‑7",
    "ppg": 127.5,
    "wins": 5.9,
-   "odds": 2,
+   "odds": 3,
    "bye": 0,
    "seed": "6.0",
-   "take": "2 percent. Fourth in points, 4‑7, and a 1.28-point loss. YourMomsDildo's season in one sentence."
+   "take": "3 percent. Fourth in points, 4‑7, and lost the only waiver claim that mattered. YourMomsDildo's season in one sentence."
   },
   {
    "team": "MarcusbetterLockNjigba",
@@ -1738,8 +1731,8 @@
    "wins": 6.1,
    "odds": 1,
    "bye": 0,
-   "seed": "5.9",
-   "take": "1 percent, and a can to drink. tballsmccall needs to win out and get a miracle."
+   "seed": "6.0",
+   "take": "1 percent, and a can to drink. tballsmccall needs to win out, get a miracle and pick a team name we can print."
   },
   {
    "team": "JTWaddlesHisPurdyJohnson",
@@ -1750,7 +1743,7 @@
    "odds": 1,
    "bye": 0,
    "seed": "5.9",
-   "take": "1 percent. Escaped the can by 1.50, which is GeorigaGoocher's best result of the week."
+   "take": "1 percent. Escaped the can by 1.50 last week and is 14 percent to drink this week."
   },
   {
    "team": "Slippery Balls",
@@ -1772,10 +1765,10 @@
    "odds": 0,
    "bye": 0,
    "seed": "—",
-   "take": "0 percent and 0‑11. The sim gives ClaytonBigsbi 0.2 wins the rest of the way."
+   "take": "0 percent and 0‑11. The sim gives ClaytonBigsbi 0.2 wins the rest of the way. The new Washington defense will not change that."
   }
  ],
- "projnote": "20,000 simulated finishes of Weeks 12 through 14 on the real Sleeper schedule, with each team's weekly score drawn from its own Weeks 1–11 average and spread, ranked by wins and then points for. Data runs through the end of Week 11 (Monday night final).",
+ "projnote": "20,000 simulated finishes of Weeks 12 through 14 on the real Sleeper schedule, with each team's weekly score drawn from its own Weeks 1–11 average and spread, ranked by wins and then points for. Data runs through the end of Week 11 (Monday night final), rerun Wednesday morning after waivers.",
  "picks": {
   "week": 12,
   "items": [
